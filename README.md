@@ -1,6 +1,8 @@
 ### About
 
-**CS student**
+ID: kongfang / kongfang89 / cm4k3r
+
+Major: CS
 
 ### EDUCATION
 
