@@ -1,4 +1,8 @@
-CS student
+### About
+
+**CS student**
+
+### EDUCATION
 
 2019-2022 SZPT(now SZPU)
 
