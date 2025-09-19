@@ -1,10 +1,10 @@
-### About
+## About
 
 ID: kongfang / kongfang89 / cm4k3r
 
 Major: CS
 
-### EDUCATION
+## Edu
 
 2019-2022 SZPT(now SZPU)
 
