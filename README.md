@@ -12,6 +12,8 @@ Major: CS
 
 2025-     SZU
 
+[![](https://img.shields.io/badge/KONFANG89-EXPERT_1614-%230000ff?style=for-the-badge)](https://codeforces.com/profile/kongfang89)
+
 ![](https://img.shields.io/badge/EXPERT_1614-KONFANG89?style=for-the-badge&label=KONGFANG89&color=%230000ff&link=https%3A%2F%2Fcodeforces.com%2Fprofile%2Fkongfang89)
 
 
